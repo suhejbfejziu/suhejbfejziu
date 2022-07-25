@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suhejb Fejziu
 =====================================================================================================================================
 
-Software Enginner
+Software Engineer
 -----------------
 
 Web Developer skilled in various programming languages, which I have used to develop meaningful projects individually and collaborate with other teams. I focus on the client's needs and communication to achieve the best result. I'm constantly trying to develop my skills further and acquire new ones, which will be helpful for my future career.
