@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suhejb Fejziu
 =====================================================================================================================================
 
-Software Engineer
+Web Developer
 -----------------
 
 Web Developer skilled in various programming languages, which I have used to develop meaningful projects individually and collaborate with other teams. I focus on the client's needs and communication to achieve the best result. I'm constantly trying to develop my skills further and acquire new ones, which will be helpful for my future career.
 
 * 🌍  I'm based in Prizren,Kosovo
 * ✉️  You can contact me at [fejziusuhejb12@gmail.com](mailto:fejziusuhejb12@gmail.com)
-* 🧠  I'm learning Java Programming Language
+* 🧠  I'm learning The FrontEnd Developer Career Path at Scrimba
 
 <a href="https://www.github.com/suhejbfejziu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/suhejbfejziu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
