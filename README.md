@@ -1,4 +1,4 @@
-<h3>Hello, I'm Suhejb Fejziu Frontend Developer!</h3>
+<h2>Hello, I'm Suhejb Fejziu Frontend Developer</h2>
 
 ---------------------------------------------------------------------------------
 
