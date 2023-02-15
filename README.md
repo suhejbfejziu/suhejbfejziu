@@ -6,7 +6,7 @@ Frontend Developer with a passion for doing the best to create user-friendly web
 
 * 🌍  I'm based in Prizren,Kosovo
 * ✉️  You can contact me at [fejziusuhejb12@gmail.com](mailto:fejziusuhejb12@gmail.com)
-* 🧠  I'm learning The Frontend Developer Career Path at Scrimba
+* 🧠  Graduated from Scrimba (The Frontend Developer Career Path)
 
 <a href="https://www.github.com/suhejbfejziu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/suhejbfejziu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
