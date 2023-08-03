@@ -7,7 +7,7 @@ I'm a software developer who loves creating user-friendly web applications. I en
 * 🌍  I'm based in Prizren,Kosovo
 * ✉️  You can contact me at [fejziusuhejb12@gmail.com](mailto:fejziusuhejb12@gmail.com)
 * 🧠  Graduated from Scrimba (The Frontend Developer Career Path)
-* My Portfolio <a target="_blank" href="https://suhejbfejziu.me/">Check it out!</a>
+* My Portfolio <a href="https://suhejbfejziu.me/" target="_blank">Check it out!</a>
 
 <a href="https://www.github.com/suhejbfejziu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/suhejbfejziu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
