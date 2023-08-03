@@ -2,7 +2,7 @@
 
 ---------------------------------------------------------------------------------
 
-Frontend Developer with a passion for doing the best to create user-friendly web applications. I have a suitable foundation in HTML, CSS, JavaScript, and React. I enjoy collaborating with others, working in a team-oriented environment, and always learning and staying up-to-date with the latest technologies and industry trends. I am excited about taking on new challenges and growing.
+Software Developer with a passion for doing the best to create user-friendly web applications. I have a suitable foundation in HTML, CSS, JavaScript, React and PHP. I enjoy collaborating with others, working in a team-oriented environment, and always learning and staying up-to-date with the latest technologies and industry trends. I am excited about taking on new challenges and growing.
 
 * 🌍  I'm based in Prizren,Kosovo
 * ✉️  You can contact me at [fejziusuhejb12@gmail.com](mailto:fejziusuhejb12@gmail.com)
