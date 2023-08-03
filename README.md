@@ -6,8 +6,8 @@ I'm a software developer who loves creating user-friendly web applications. I en
 
 * 🌍  I'm based in Prizren,Kosovo
 * ✉️  You can contact me at [fejziusuhejb12@gmail.com](mailto:fejziusuhejb12@gmail.com)
-* Portfolio <a href="https://suhejbfejziu.me/">Portfolio</a>
 * 🧠  Graduated from Scrimba (The Frontend Developer Career Path)
+* My Portfolio <a href="https://suhejbfejziu.me/">Check it out!</a>
 
 <a href="https://www.github.com/suhejbfejziu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/suhejbfejziu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -20,7 +20,9 @@ src="https://img.shields.io/github/followers/suhejbfejziu?logo=github&style=for-
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a></p>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+ <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+</p>
 
 ### Socials
 
