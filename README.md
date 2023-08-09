@@ -1,8 +1,6 @@
-<h1>Hello, I'm Suhejb Fejziu</h1>
+## Introduction
 
----------------------------------------------------------------------------------
-
-I'm a Software Developer who loves creating user-friendly web applications. I enjoy working in a team and always strive to stay up-to-date with the latest technologies and trends. I'm eager to take on new challenges and grow professionally.
+<h1>Hello, I'm Suhejb Fejziu</h1> Software Developer who loves creating user-friendly web applications. I enjoy working in a team and always strive to stay up-to-date with the latest technologies and trends. I'm eager to take on new challenges and grow professionally.
 
 * 🌍  I'm based in Prizren,Kosovo
 * ✉️  You can contact me at [fejziusuhejb12@gmail.com](mailto:fejziusuhejb12@gmail.com)
