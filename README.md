@@ -3,7 +3,7 @@
 Hi there, I'm Suhejb Fejziu, a Software Developer. I love working in teams and staying up-to-date with the latest industry trends. I'm always open to new challenges that can help me improve my skills as a developer.
 
 * 🌍  I'm based in Prizren,Kosovo
-* ✉️  You can contact me at [fejziusuhejb12@gmail.com](mailto:fejziusuhejb12@gmail.com)
+* ✉️  You can contact me at [suhejbfejziu2@gmail.com](mailto:suhejbfejziu2@gmail.com)
 * 🧠  Graduated from Scrimba (The Frontend Developer Career Path)
 * My Portfolio <a href="https://suhejbfejziu.framer.ai/" target="_blank">Check it out!</a>
 
